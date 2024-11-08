@@ -32,6 +32,7 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "hack": true,
   "contributeWarBond": 1000000, // The amount of contributions to my guild, set many if you can, that help me a lot
   "limit": 5, //number of accounts run in a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
