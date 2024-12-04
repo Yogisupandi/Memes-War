@@ -2,6 +2,8 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "contributeWarBond": 1000000,
-  "hack": true
+  "contributeWarBond": 1000,
+  "hack": false,
+  "delayEachAccount": [5, 8],
+  "skipInvalidProxy": false
 }
