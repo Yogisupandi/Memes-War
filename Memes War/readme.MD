@@ -32,12 +32,15 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "hack": true,
-  "contributeWarBond": 1000000, // The amount of contributions to my guild, set many if you can, that help me a lot
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "contributeWarBond": 99999999999999999999999999999,
+  "hack": false,
+  "delayEachAccount": [5, 8],
+  "skipInvalidProxy": false
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
