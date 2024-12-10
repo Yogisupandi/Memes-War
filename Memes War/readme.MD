@@ -13,9 +13,9 @@
 To get started with the bot, follow these steps:
 
 0. **Dowload NodeJS to run the bot**
-
--> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
-
+> Remember to download Nodejs version: **22.11.0** and NPM version: **10.9.0**
+>
+> > [Download Link](https://t.me/KeoAirDropFreeNe/257/1462)
 1. **Install Dependencies and Modules:**
 
    ```
@@ -71,6 +71,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd memes-war-main/memes-war; node bot`
 
 🎇Enjoy!
